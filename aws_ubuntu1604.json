@@ -1,6 +1,6 @@
 {
   "variables": {
-    "build_number": "{{env `BUILD_NUMBER`}}",
+    "build_number": "",
     "access_key": "",
     "secret_key": ""
   },
